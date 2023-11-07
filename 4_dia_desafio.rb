@@ -20,4 +20,4 @@ nota3 = gets.chomp.to_f
 
 media = (nota1 + nota2 + nota3) / 3
 
-p media
+p "A média das suas notas é: " + media.ceil(1).to_s
