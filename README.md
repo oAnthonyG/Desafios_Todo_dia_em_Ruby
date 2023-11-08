@@ -1,17 +1,17 @@
 ## Exercicios para treinar Ruby todos os dias ##
 
 - 1° dia - Tamanho da String :heavy_check_mark:
-- 2° dia - Transformar em Grito
-- 3° dia - Inverter array
-- 4° dia - Média das Notas
-- 5° dia - Condição if/else
-- 6° dia - Ordem Crescente
-- 7° dia - Função
-- 8° dia - Verificar se Array contém um número específico
-- 9° dia - Estrutura Has
-- 10° dia - Mudar o valor de uma chave Hash
-- 11° dia - Transformar Array em Hash
-- 12° dia - Soma dos Números Pares
+- 2° dia - Transformar em Grito :heavy_check_mark:
+- 3° dia - Inverter array :heavy_check_mark:
+- 4° dia - Média das Notas :heavy_check_mark:
+- 5° dia - Condição if/else :heavy_check_mark:
+- 6° dia - Ordem Crescente :heavy_check_mark:
+- 7° dia - Função :heavy_check_mark:
+- 8° dia - Verificar se Array contém um número específico :heavy_check_mark:
+- 9° dia - Estrutura Has :heavy_check_mark:
+- 10° dia - Mudar o valor de uma chave Hash :heavy_check_mark:
+- 11° dia - Transformar Array em Hash :heavy_check_mark:
+- 12° dia - Soma dos Números Pares  :heavy_check_mark:
 - 13° dia - Tabuada de Multiplicação
 - 14° dia - Encontre o Maior Elemento no Array
 - 15° dia - Soma dos Dígitos
