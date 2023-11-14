@@ -12,12 +12,12 @@
 - 10° dia - Mudar o valor de uma chave Hash :heavy_check_mark:
 - 11° dia - Transformar Array em Hash :heavy_check_mark:
 - 12° dia - Soma dos Números Pares  :heavy_check_mark:
-- 13° dia - Tabuada de Multiplicação
-- 14° dia - Encontre o Maior Elemento no Array
-- 15° dia - Soma dos Dígitos
-- 16° dia - Contagem de Vogais
-- 17° dia - Contagem de Números Positivos e Negativos
-- 18° dia - Gerador de Senhas Aleatórias
+- 13° dia - Tabuada de Multiplicação :heavy_check_mark:
+- 14° dia - Encontre o Maior Elemento no Array :heavy_check_mark:
+- 15° dia - Soma dos Dígitos :heavy_check_mark:
+- 16° dia - Contagem de Vogais :heavy_check_mark:
+- 17° dia - Contagem de Números Positivos e Negativos :heavy_check_mark:
+- 18° dia - Gerador de Senhas Aleatórias :heavy_check_mark:
 - 19° dia - Sequência Espelho
 - 20° dia - Contador de Vezes
 - 21° dia - Validador de Senha
