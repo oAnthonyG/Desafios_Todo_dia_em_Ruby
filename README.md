@@ -18,11 +18,11 @@
 - 16° dia - Contagem de Vogais :heavy_check_mark:
 - 17° dia - Contagem de Números Positivos e Negativos :heavy_check_mark:
 - 18° dia - Gerador de Senhas Aleatórias :heavy_check_mark:
-- 19° dia - Sequência Espelho
-- 20° dia - Contador de Vezes
-- 21° dia - Validador de Senha
-- 22° dia - Gerador de Frases
-- 23° dia - Verificador de Anagramas
+- 19° dia - Sequência Espelho :heavy_check_mark:
+- 20° dia - Contador de Vezes :heavy_check_mark:
+- 21° dia - Validador de Senha :heavy_check_mark:
+- 22° dia - Gerador de Frases :heavy_check_mark:
+- 23° dia - Verificador de Anagramas :heavy_check_mark:
 - 24° dia - Máquina do Tempo
 - 25° dia - A cozinha Musical
 - 26° dia - Playlist Personalizada
