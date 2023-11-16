@@ -23,8 +23,15 @@
 - 21° dia - Validador de Senha :heavy_check_mark:
 - 22° dia - Gerador de Frases :heavy_check_mark:
 - 23° dia - Verificador de Anagramas :heavy_check_mark:
-- 24° dia - Máquina do Tempo
-- 25° dia - A cozinha Musical
-- 26° dia - Playlist Personalizada
-- 27° dia -  Monitoramento de Temperatura Ambiental
+- 24° dia - Máquina do Tempo :heavy_check_mark:
+- 25° dia - A cozinha Musical :heavy_check_mark:
+- 26° dia - Playlist Personalizada :heavy_check_mark:
+- 27° dia -  Monitoramento de Temperatura Ambiental :heavy_check_mark:
 - 28° dia - Sistema de Reservas de Hotéis
+- 29° dia - Simulador de Dado
+- 30° dia - Lista de Compras
+- 31° dia - Organizador de E-mails
+- 32° dia - Simulador de Sorteio de Loteria
+- 33° dia - Analisador de Frequência de Palavras em Texto
+- 34° dia - Conversor de Código Binário para Texto
+- 35° dia - Criador de QR Code
