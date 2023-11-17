@@ -27,9 +27,9 @@
 - 25° dia - A cozinha Musical :heavy_check_mark:
 - 26° dia - Playlist Personalizada :heavy_check_mark:
 - 27° dia -  Monitoramento de Temperatura Ambiental :heavy_check_mark:
-- 28° dia - Sistema de Reservas de Hotéis
-- 29° dia - Simulador de Dado
-- 30° dia - Lista de Compras
+- 28° dia - Sistema de Reservas de Hotéis :heavy_check_mark:
+- 29° dia - Simulador de Dado :heavy_check_mark:
+- 30° dia - Lista de Compras :heavy_check_mark:
 - 31° dia - Organizador de E-mails
 - 32° dia - Simulador de Sorteio de Loteria
 - 33° dia - Analisador de Frequência de Palavras em Texto
