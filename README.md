@@ -32,6 +32,19 @@
 - 30° dia - Lista de Compras :heavy_check_mark:
 - 31° dia - Organizador de E-mails :heavy_check_mark:
 - 32° dia - Simulador de Sorteio de Loteria :heavy_check_mark:
-- 33° dia - Analisador de Frequência de Palavras em Texto
-- 34° dia - Conversor de Código Binário para Texto
-- 35° dia - Criador de QR Code
+- 33° dia - Analisador de Frequência de Palavras em Texto :heavy_check_mark:
+- 34° dia - Conversor de Código Binário para Texto :heavy_check_mark:
+- 35° dia - Criador de QR Code :heavy_check_mark:
+- 36° dia - Jogo da Adivinhação de números :heavy_check_mark:
+- 37° dia - Decodificador de Mensagens Secretas :heavy_check_mark:
+- 38° dia - Fibonacci :heavy_check_mark:
+- 39° dia - Decifrador de Códigos Morse :heavy_check_mark:
+- 40° dia - Fatorial :heavy_check_mark:
+- 41° dia - Encotnrar o Par Perdido  :heavy_check_mark:
+- 42° dia - Calculadora de Troco :heavy_check_mark:
+- 43° dia - Simulador de Lançamento de Moeda
+- 44° dia - Calculadora de IMC
+- 45° dia - Contagem Regressiva Recursiva
+- 46° dia - Conversor de Notação Romana
+- 47° dia - Verificador de Palíndromo Numérico
+- 48° dia - O Mestre do Tempo
